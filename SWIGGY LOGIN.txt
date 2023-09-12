@@ -1,0 +1,37 @@
+Description
+
+Discription
+
+As a customer
+
+I want to login
+
+So that i can successfully login in this application
+
+SCOPE
+
+cstomer should be able to pay the payment
+
+PRE-CONDITION
+
+customer should be able to pay the pament for fav item
+
+ACCEPTANCE CRITERIA
+
+scenario 1: customer can successfully ordered
+
+customer enter valid deatils
+
+they will send a otp 
+
+customer should entered correct otp
+
+finally it will get a successfully login message
+
+scenario 2:customer cannot successfully ordered
+
+customer entered in-valid details
+
+customer entered wrong otp 
+
+finally it will get a error message
